@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teacher App</string>
+    
+    <!-- Splash -->
+    <string name="app_welcome">Welcome to Teacher App</string>
+    
+    <!-- Language -->
+    <string name="select_language">Select Your Language</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_english">English</string>
+    <string name="language_french">Français</string>
+    <string name="continue_button">Continue</string>
+    
+    <!-- Login -->
+    <string name="login_title">Sign In</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    
+    <!-- Register -->
+    <string name="register_title">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="subject">Subject</string>
+    <string name="school">School</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account?</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="hello">Hello</string>
+    <string name="classes">Classes</string>
+    <string name="attendance">Attendance</string>
+    <string name="assessment">Assessment</string>
+    <string name="club">Math Club</string>
+    <string name="competition">Competition</string>
+    <string name="lessons">Lessons</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="back">Back</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="empty_field">This field is required</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="invalid_password">Password must be at least 6 characters</string>
+    <string name="email_exists">Email already registered</string>
+</resources>
