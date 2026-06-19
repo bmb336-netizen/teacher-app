@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق المعلم</string>
+    
+    <!-- Splash -->
+    <string name="app_welcome">أهلاً بك في تطبيق المعلم</string>
+    
+    <!-- Language -->
+    <string name="select_language">اختر اللغة</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_english">English</string>
+    <string name="language_french">Français</string>
+    <string name="continue_button">متابعة</string>
+    
+    <!-- Login -->
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="email_hint">البريد الإلكتروني</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="sign_in">دخول</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="register">إنشاء حساب</string>
+    
+    <!-- Register -->
+    <string name="register_title">إنشاء حساب جديد</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="subject">المادة</string>
+    <string name="school">المدرسة</string>
+    <string name="phone_hint">رقم الهاتف</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="create_account">إنشاء الحساب</string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">لوحة التحكم</string>
+    <string name="hello">مرحباً</string>
+    <string name="classes">الأقسام</string>
+    <string name="attendance">الحضور والغياب</string>
+    <string name="assessment">تقييم المكتسبات</string>
+    <string name="club">نادي الرياضيات</string>
+    <string name="competition">بطولة الرياضيات</string>
+    <string name="lessons">الدروس</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="settings">الإعدادات</string>
+    
+    <!-- Common -->
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="add">إضافة</string>
+    <string name="back">رجوع</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="error">خطأ</string>
+    <string name="success">نجاح</string>
+    <string name="empty_field">هذا الحقل مطلوب</string>
+    <string name="invalid_email">بريد إلكتروني غير صحيح</string>
+    <string name="invalid_password">كلمة المرور يجب أن تكون 6 أحرف على الأقل</string>
+    <string name="email_exists">البريد الإلكتروني مسجل بالفعل</string>
+</resources>
